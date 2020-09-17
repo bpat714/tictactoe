@@ -1,0 +1,16 @@
+body {
+  margin: 20;
+  align-self: auto;
+  align-content: center;
+  align-self: auto;
+  padding: 10;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: x-large;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+  align-self: auto;
+}
