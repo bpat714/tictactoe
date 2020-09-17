@@ -7,7 +7,7 @@ trigger:
 - master
 
 variables:
-  rootDir: 'my-app'
+  rootDir: 'tictactoe'
   buildDir: '$(rootDir)/build'
 
 pool:
